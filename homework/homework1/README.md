@@ -31,10 +31,10 @@ India’s capital markets—especially in index derivatives like NIFTY and BANKN
 - Model outputs may diverge from live market behavior due to liquidity or slippage.
 
 ## Lifecycle Mapping
-- Scoping	Stage 01	Problem framing & README
-- Data Prep	Stage 02	Clean historical NSE option and equity data
-- Modeling	Stage 03	IV surfaces, skew analysis, and backtest reports
-- Deployment	Stage 04	Interactive dashboards and analytics tools for retail users
+- <Scoping>	-> Stage 01: 	Problem framing & README
+- <Data Prep> -> Stage 02:	Clean historical NSE option and equity data
+- <Modeling> -> Stage 03:	IV surfaces, skew analysis, and backtest reports
+- <Deployment> -> Stage 04:	Interactive dashboards and analytics tools for retail users
 
 ## Repo Plan
 /data/, /src/, /notebooks/, /docs/ ; cadence for updates
