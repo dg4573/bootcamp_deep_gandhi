@@ -1,4 +1,5 @@
-# Project Title
+# Options Trading Tool for Indian Retail Investors
+
 **Stage:** Problem Framing & Scoping (Stage 01)
 
 ## Problem Statement
