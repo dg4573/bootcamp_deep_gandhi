@@ -1,0 +1,3 @@
+Get data for the application from:
+  - APIs
+  - Web Scraping
