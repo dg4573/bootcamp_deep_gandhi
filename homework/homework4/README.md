@@ -1,4 +1,4 @@
-# Section 03: Python Fundamentals
+# Section 04: Data Acquisition and Ingestion
 
 ### The `stage04` notebook conatins:
 - Loading `API_KEY` from `.env` file 
