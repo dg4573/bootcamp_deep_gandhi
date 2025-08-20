@@ -1,16 +1,10 @@
-# Section 05: Data Storage 
+# Section 06: Data Preprocessing 
 
-### Folder Structure:
-homework5/
-├── data/
-│ ├── raw/ 
-│ └── processed/ 
-└── notebooks/ 
+## `cleaning` File in `src` contains functions:
+- 1. **fill_missing_median()**: Fills missing values in numeric columns using the column median.
+- 2. **drop_missing()**: Drops rows with missing values. If `cols` is specified, only checks those columns.
+- 3. **normalize_data()**: Scales numeric columns to 0–1 range using MinMax normalization.
 
-### Formats
-- **CSV**: human-readable, good for quick inspection and sharing.  
-- **Parquet**: efficient, compressed, preserves dtypes, faster for large datasets.  
 
-### `.env` file has:
-DATA_RAW= path/to/data/raw
-DATA_PROCESSED= path/to/data/processed
+
+   
